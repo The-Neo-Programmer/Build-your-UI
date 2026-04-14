@@ -1,0 +1,391 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect x="0" y="0" width="1280" height="720" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="0" y="0" width="1280" height="720" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="0" y="0" width="1280" height="720" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="0" y="0" width="1280" height="720" fill="rgb(0, 0, 0)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="0" y="0" width="1280" height="64" fill="rgb(0, 0, 0)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="-1" y="-1" width="32" height="32" fill="rgb(255, 255, 255)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="-4" width="72" height="72" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="28" y="16" width="32" height="32" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="28" y="16" width="32" height="32" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="28.00182342529297" y="16.000490188598633" width="116.98218536376953" height="31.999021530151367" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="80" y="8" width="611.921875" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="80" y="8" width="546" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="88" y="8" width="48" height="48" fill="rgb(31, 31, 31)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="100" y="20" width="24" height="24" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="100" y="20" width="24" height="24" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="102" y="21.113075256347656" width="20" height="20.886924743652344" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="136" y="8" width="490" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="144" y="8" width="474" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="144" y="8" width="48" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="144" y="8" width="48" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="156" y="20" width="24" height="24" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="156" y="20" width="24" height="24" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="157.1259765625" y="21.2789306640625" width="21.373992919921875" height="21.146018981933594" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="144" y="8" width="474" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="144" y="8" width="474" height="48" fill="rgb(31, 31, 31)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="144" y="20" width="474" height="24" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="192" y="21" width="192.296875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="197" y="36" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="384.296875" y="20" width="139.859375" height="24" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="398.296875" y="19" width="38.34375" height="26" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="403.296875" y="34" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="440.640625" y="19" width="44.953125" height="26" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="445.640625" y="34" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="489.59375" y="19" width="20.5625" height="26" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="494.59375" y="34" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="565" y="19.4765625" width="41" height="25.046875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="565" y="19.4765625" width="41" height="25.046875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="578" y="20.5234375" width="24" height="24" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="578" y="20.5234375" width="24" height="24" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="578" y="20.5234375" width="24" height="24" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="587" y="34.0234375" width="6" height="4" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="579.2911987304688" y="21.5234375" width="21.41864013671875" height="21" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="691.921875" y="3.5" width="580.078125" height="57" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="691.921875" y="3.5" width="580.078125" height="57" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="691.921875" y="8" width="67.015625" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="696.921875" y="23" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="766.9375" y="8" width="61.421875" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="771.9375" y="23" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="836.359375" y="8" width="76.6875" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="841.359375" y="23" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="937.046875" y="19.5" width="1" height="25" fill="rgb(255, 255, 255)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="962.046875" y="16" width="121.34375" height="32" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="974.046875" y="24" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="974.046875" y="24" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="978.822509765625" y="27.25" width="6.46807861328125" height="9.56100082397461" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="974.046875" y="24" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="998.046875" y="22" width="69.34375" height="20" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="1003.046875" y="37" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="1091.390625" y="8" width="180.609375" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1091.390625" y="16" width="72.3125" height="32" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="1096.390625" y="31" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="1163.703125" y="8" width="108.296875" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1163.703125" y="8" width="108.296875" height="48" fill="rgb(255, 255, 255)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="1168.703125" y="23" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="8" y="64" width="294" height="574" fill="rgb(0, 0, 0)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="64" width="294" height="574" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="64" width="294" height="574" fill="rgb(18, 18, 18)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="64" width="294" height="349" fill="rgb(18, 18, 18)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="64" width="294" height="75" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="64" width="294" height="59" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="24" y="80" width="262" height="35" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="24" y="86.5" width="94.09375" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="28" y="86.5" width="90.09375" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="33" y="101.5" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="251" y="80" width="35" height="35" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="251" y="80" width="35" height="35" fill="rgb(31, 31, 31)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="260.5" y="89.5" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="261.25" y="90.25" width="14.5" height="14.5" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="139" width="294" height="274" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="139" width="294" height="274" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="139" width="294" height="374" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="16" y="155" width="278" height="134" fill="rgb(31, 31, 31)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="36" y="171" width="176.8125" height="50" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="36" y="171" width="176.8125" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="41" y="186" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="36" y="201" width="176.8125" height="20" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="41" y="216" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="36" y="241" width="125.546875" height="32" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="36" y="241" width="125.546875" height="32" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="36" y="241" width="125.546875" height="32" fill="rgb(255, 255, 255)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="41" y="256" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="16" y="313" width="278" height="176" fill="rgb(31, 31, 31)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="36" y="329" width="238" height="92" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="36" y="329" width="238" height="44" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="41" y="344" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="36" y="381" width="238" height="40" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="41" y="396" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="36" y="441" width="142.390625" height="32" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="36" y="441" width="142.390625" height="32" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="36" y="441" width="142.390625" height="32" fill="rgb(255, 255, 255)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="41" y="456" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="8" y="401" width="294" height="12" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="401" width="294" height="12" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="401" width="294" height="12" fill="rgba(255, 255, 255, 0.3)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="290" y="139" width="12" height="274" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="290" y="139" width="12" height="274" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="290" y="139" width="12" height="200.71875" fill="rgba(255, 255, 255, 0.3)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="413" width="294" height="225" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="445" width="294" height="97" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="32" y="445" width="246" height="75" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="32" y="445" width="29.75" height="25" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="32" y="445" width="29.75" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="32" y="445" width="29.75" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="37" y="460" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="77.75" y="445" width="126.609375" height="25" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="77.75" y="445" width="126.609375" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="77.75" y="445" width="126.609375" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="82.75" y="460" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="32" y="470" width="73.296875" height="25" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="32" y="470" width="73.296875" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="32" y="470" width="73.296875" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="37" y="485" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="121.296875" y="470" width="44.03125" height="25" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="121.296875" y="470" width="44.03125" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="121.296875" y="470" width="44.03125" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="126.296875" y="485" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="181.328125" y="470" width="57.421875" height="25" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="181.328125" y="470" width="57.421875" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="181.328125" y="470" width="57.421875" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="186.328125" y="485" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="32" y="495" width="67.890625" height="25" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="32" y="495" width="67.890625" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="32" y="495" width="67.890625" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="37" y="510" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="32" y="520" width="60.03125" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="32" y="524" width="44.03125" height="17" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="37" y="539" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="8" y="574" width="294" height="32" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="32" y="574" width="100.984375" height="32" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="45" y="582" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="45" y="582" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="45.07600021362305" y="582.0003662109375" width="16" height="15.9996337890625" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="302" y="64" width="8" height="574" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="305.5" y="350.5" width="1" height="1" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="307.5" y="418.5" width="129" height="16" fill="rgb(255, 255, 255)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="0" y="638" width="1280" height="82" fill="rgb(0, 0, 0)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="646" width="1264" height="66" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="646" width="1264" height="66" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="23" y="658" width="634.421875" height="42" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="23" y="658" width="634.421875" height="20" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="28" y="673" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="23" y="678" width="634.421875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="28" y="693" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="1095.015625" y="657" width="152.984375" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1095.015625" y="657" width="152.984375" height="48" fill="rgb(255, 255, 255)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="1100.015625" y="672" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="310" y="64" width="962" height="574" fill="rgb(18, 18, 18)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="64" width="962" height="574" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="64" width="962" height="574" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="64" width="962" height="574" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="64" width="962" height="574" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="64" width="962" height="574" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="64" width="962" height="1018.21875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="64" width="962" height="256" fill="rgb(83, 83, 83)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="64" width="962" height="1018.21875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="309" y="67" width="1" height="1" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="309" y="67" width="1" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="314" y="82" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="310" y="68" width="962" height="982.21875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="68" width="882" height="332.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="68" width="882" height="56" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="68" width="882" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="68" width="882" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="68" width="168.109375" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="87" width="168.109375" height="29" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="87" width="168.109375" height="29" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="87" width="168.109375" height="29" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="355" y="102" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="1169.953125" y="68" width="62.046875" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1169.953125" y="69" width="54.046875" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1169.953125" y="97" width="54.046875" height="20" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="1174.953125" y="112" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="310" y="124" width="962" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="124" width="962" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="124" width="3630.375" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="124" width="3630.375" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="338" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="515.71875" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="693.4375" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="871.15625" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1048.875" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1226.59375" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1404.3125" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1582.03125" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1759.75" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1937.46875" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="2115.1875" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="2292.90625" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="2470.625" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="2648.34375" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="2826.0625" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="3003.78125" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="3181.5" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="3359.21875" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="3536.9375" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="3714.65625" y="124" width="177.71875" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="318" y="124" width="946" height="276.78125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="318" y="246.390625" width="32" height="32" fill="rgb(31, 31, 31)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="326" y="254.390625" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="328.44000244140625" y="254.6412811279297" width="8.828704833984375" height="15.518051147460938" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1232" y="246.390625" width="32" height="32" fill="rgb(31, 31, 31)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1240" y="254.390625" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1244.731201171875" y="254.6412811279297" width="8.828857421875" height="15.518051147460938" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="416.78125" width="882" height="287.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="416.78125" width="882" height="56" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="416.78125" width="882" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="416.78125" width="882" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="416.78125" width="160.203125" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="435.78125" width="160.203125" height="29" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="435.78125" width="160.203125" height="29" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="435.78125" width="160.203125" height="29" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="355" y="450.78125" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="1169.953125" y="416.78125" width="62.046875" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1169.953125" y="417.78125" width="54.046875" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1169.953125" y="445.78125" width="54.046875" height="20" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="1174.953125" y="460.78125" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="310" y="472.78125" width="962" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="472.78125" width="962" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="472.78125" width="1853.1875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="472.78125" width="1853.1875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="338" y="472.78125" width="177.71875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="515.71875" y="472.78125" width="177.71875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="693.4375" y="472.78125" width="177.71875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="871.15625" y="472.78125" width="177.71875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1048.875" y="472.78125" width="177.71875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1226.59375" y="472.78125" width="177.71875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1404.3125" y="472.78125" width="177.71875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1582.03125" y="472.78125" width="177.71875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1759.75" y="472.78125" width="177.71875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1937.46875" y="472.78125" width="177.71875" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="318" y="472.78125" width="946" height="231.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="318" y="572.640625" width="32" height="32" fill="rgb(31, 31, 31)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="326" y="580.640625" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="328.44000244140625" y="580.8912963867188" width="8.828704833984375" height="15.51800537109375" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1232" y="572.640625" width="32" height="32" fill="rgb(31, 31, 31)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1240" y="580.640625" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1244.731201171875" y="580.8912963867188" width="8.828857421875" height="15.51800537109375" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="720.5" width="882" height="329.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="720.5" width="882" height="56" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="720.5" width="882" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="720.5" width="882" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="720.5" width="296.90625" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="739.5" width="296.90625" height="29" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="739.5" width="296.90625" height="29" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="350" y="739.5" width="296.90625" height="29" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="355" y="754.5" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="1169.953125" y="720.5" width="62.046875" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1169.953125" y="721.5" width="54.046875" height="48" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1169.953125" y="749.5" width="54.046875" height="20" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="1174.953125" y="764.5" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="310" y="776.5" width="962" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="776.5" width="962" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="776.5" width="1853.1875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="776.5" width="1853.1875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="338" y="776.5" width="177.71875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="515.71875" y="776.5" width="177.71875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="693.4375" y="776.5" width="177.71875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="871.15625" y="776.5" width="177.71875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1048.875" y="776.5" width="177.71875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1226.59375" y="776.5" width="177.71875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1404.3125" y="776.5" width="177.71875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1582.03125" y="776.5" width="177.71875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1759.75" y="776.5" width="177.71875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1937.46875" y="776.5" width="177.71875" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="318" y="776.5" width="946" height="273.71875" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="318" y="897.359375" width="32" height="32" fill="rgb(31, 31, 31)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="326" y="905.359375" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="328.44000244140625" y="905.6100463867188" width="8.828704833984375" height="15.51800537109375" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1232" y="897.359375" width="32" height="32" fill="rgb(31, 31, 31)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1240" y="905.359375" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1244.731201171875" y="905.6100463867188" width="8.828857421875" height="15.51800537109375" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="1082.21875" width="962" height="444" fill="rgb(18, 18, 18)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="332.828125" y="1146.21875" width="916.34375" height="1" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="1171.21875" width="962" height="355" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="1171.21875" width="962" height="355" fill="rgb(18, 18, 18)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1211.21875" width="898" height="212" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1211.21875" width="746" height="212" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1211.21875" width="149.1875" height="180" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1211.21875" width="149.1875" height="112" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1211.21875" width="149.1875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="347" y="1226.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="342" y="1241.21875" width="45.65625" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1241.21875" width="45.65625" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="347" y="1256.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="342" y="1271.21875" width="34.9375" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1271.21875" width="34.9375" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="347" y="1286.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="342" y="1301.21875" width="105.453125" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1301.21875" width="105.453125" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="347" y="1316.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="515.1875" y="1211.21875" width="149.1875" height="180" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="515.1875" y="1211.21875" width="149.1875" height="172" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="515.1875" y="1211.21875" width="149.1875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="520.1875" y="1226.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="515.1875" y="1241.21875" width="74.0625" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="515.1875" y="1241.21875" width="74.0625" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="520.1875" y="1256.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="515.1875" y="1271.21875" width="83.65625" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="515.1875" y="1271.21875" width="83.65625" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="520.1875" y="1286.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="515.1875" y="1301.21875" width="84.421875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="515.1875" y="1301.21875" width="84.421875" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="520.1875" y="1316.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="515.1875" y="1331.21875" width="66.515625" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="515.1875" y="1331.21875" width="66.515625" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="520.1875" y="1346.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="515.1875" y="1361.21875" width="60.484375" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="515.1875" y="1361.21875" width="60.484375" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="520.1875" y="1376.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="688.375" y="1211.21875" width="149.1875" height="180" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="688.375" y="1211.21875" width="149.1875" height="142" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="688.375" y="1211.21875" width="149.1875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="693.375" y="1226.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="688.375" y="1241.21875" width="59.75" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="688.375" y="1241.21875" width="59.75" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="693.375" y="1256.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="688.375" y="1271.21875" width="119.46875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="688.375" y="1271.21875" width="119.46875" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="693.375" y="1286.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="688.375" y="1301.21875" width="138.4375" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="688.375" y="1301.21875" width="138.4375" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="693.375" y="1316.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="688.375" y="1331.21875" width="130.328125" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="688.375" y="1331.21875" width="130.328125" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="693.375" y="1346.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="861.5625" y="1211.21875" width="149.1875" height="180" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="861.5625" y="1211.21875" width="149.1875" height="172" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="861.5625" y="1211.21875" width="149.1875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="866.5625" y="1226.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="861.5625" y="1241.21875" width="95.75" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="861.5625" y="1241.21875" width="95.75" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="866.5625" y="1256.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="861.5625" y="1271.21875" width="135.203125" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="861.5625" y="1271.21875" width="135.203125" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="866.5625" y="1286.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="861.5625" y="1301.21875" width="132.296875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="861.5625" y="1301.21875" width="132.296875" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="866.5625" y="1316.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="861.5625" y="1331.21875" width="126.75" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="861.5625" y="1331.21875" width="126.75" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="866.5625" y="1346.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="861.5625" y="1361.21875" width="86.71875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="861.5625" y="1361.21875" width="86.71875" height="30" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="866.5625" y="1376.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="1088" y="1211.21875" width="152" height="172" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1088" y="1218.171875" width="56" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1088" y="1211.21875" width="40" height="40" fill="rgb(41, 41, 41)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1100" y="1223.21875" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1100" y="1223.21875" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1100" y="1223.216796875" width="16" height="16.0009765625" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1103.8919677734375" y="1225.98779296875" width="9.3380126953125" height="9.3389892578125" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1144" y="1218.171875" width="56" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1144" y="1211.21875" width="40" height="40" fill="rgb(41, 41, 41)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1156" y="1223.21875" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1156" y="1223.21875" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1156.5" y="1225.202392578125" width="14.7779541015625" height="12.0166015625" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1200" y="1218.171875" width="40" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1200" y="1211.21875" width="40" height="40" fill="rgb(41, 41, 41)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1212" y="1223.21875" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1212" y="1223.21875" width="16" height="16" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1212" y="1223.219970703125" width="16" height="15.9017333984375" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1423.21875" width="898" height="1" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1448.21875" width="898" height="38" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1464.21875" width="132.96875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1464.21875" width="132.96875" height="22" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="342" y="1466.21875" width="116.96875" height="20" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <text x="347" y="1481.21875" fill="currentColor" font-size="10" font-family="sans-serif">[text]</text>
+  <rect x="310" y="626" width="962" height="12" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="626" width="962" height="12" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="310" y="626" width="962" height="12" fill="rgba(255, 255, 255, 0.3)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1260" y="64" width="12" height="574" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1260" y="64" width="12" height="574" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="1260" y="64" width="12" height="225.34375" fill="rgba(255, 255, 255, 0.3)" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="0" y="8" width="1280" height="630" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="0" y="8" width="1280" height="630" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="64" width="1256" height="574" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="64" width="1256" height="574" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="16" width="1264" height="696" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+  <rect x="8" y="16" width="1264" height="696" fill="transparent" stroke="rgba(200, 200, 200, 0.5)" stroke-width="1" />
+</svg>
