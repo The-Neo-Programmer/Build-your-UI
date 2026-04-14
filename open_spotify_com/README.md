@@ -1,4 +1,4 @@
-# open.SPOTIFY.com Patterns
+# SPOTIFY Patterns
 
 ## Developer Instructions
 This folder contains the UI patterns extracted from open_spotify_com. The `pages` folder contains the hierarchical DOM structure and computed styles (colors, layout) mapping to W3C Design Tokens.
